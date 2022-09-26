@@ -1,2 +1,9 @@
 // Importando fontes para o projeto
 @import './assets/fontes/fontes.scss';
+
+:root{
+    //Armazenando fontes em variáveis globais
+    --Regular: 'Biennale Regular'
+    --Bold: 'Biennale Light'
+    --Light: 'Biennale Bold'
+}
