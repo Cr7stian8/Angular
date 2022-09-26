@@ -2,8 +2,19 @@
 @import './assets/fontes/fontes.scss';
 
 :root{
-    //Armazenando fontes em variáveis globais
-    --Regular: 'Biennale Regular'
-    --Bold: 'Biennale Light'
-    --Light: 'Biennale Bold'
+    //Fontes Globais
+    --Regular: 'Biennale Regular';
+    --Bold: 'Biennale Light';
+    --Light: 'Biennale Bold';
+
+    //Cores Globais
+    --corPrimaria: #5E49FF;
+    --corPrimaria2: #25cbd3;
+    --corPrimaria3: #f0f5ff;
+    
+    --branco: #fff;
+    --cinza: #f4f4f4;
+    --cinza1: #DADADA;
+    --cinza2: #7C7786;
+    --cinza3: #333;
 }
